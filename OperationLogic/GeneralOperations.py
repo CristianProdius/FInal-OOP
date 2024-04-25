@@ -1,6 +1,6 @@
 import sys
 from DataBase import FileManager
-from Logging import Logger
+from Logging.Logger import Logger
 from Templates import Faculty, Student, StudyField
 from OperationLogic import UserInput, Storage
 

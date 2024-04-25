@@ -1,8 +1,11 @@
 import sys
 from datetime import datetime
 from DataBase import FileManager
-from Logging import Logger
+from Logging.Logger import Logger
 from Templates import Faculty, Student
+from OperationLogic.StudentRole import StudentRole
+from OperationLogic.Storage import Storage
+
 
 logger = Logger("FacultyLogs.log")
 

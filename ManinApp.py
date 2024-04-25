@@ -1,5 +1,7 @@
-from DataBase import FileManager
-from OperationLogic import FacultyOperations, GeneralOperations, UserInput
+from DataBase.FileManager import FileManager
+from OperationLogic.FacultyOperations import FacultyOperations
+from OperationLogic.GeneralOperations import GeneralOperations
+from OperationLogic.UserInput import UserInput
 
 class MainApp:
     @staticmethod
