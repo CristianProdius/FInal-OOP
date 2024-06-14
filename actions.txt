@@ -1,0 +1,9 @@
+ns/FCIS/John/Doe/johndoe@example.com/15/02/1990
+
+ns/FCIS/Jane/Smith/janesmith@example.com/20/03/1991
+
+ns/FCIS/Alice/Johnson/alicejohnson@example.com/25/04/1992
+gs/alicejohnson@example.com
+nf/Faculty of Computer and Information Science/FCIM/SOFTWARE_ENGINEERING
+nf/Faculty of Computer and Information Science/FCIM/SOFTWARE_ENGINEERING
+nf/Faculty of Computer and Information Science/FCIM/SOFTWARE_ENGINEERING

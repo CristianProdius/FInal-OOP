@@ -1,0 +1,2 @@
+gs/johndoe@example.com
+gs/alicejohnson@example.com
